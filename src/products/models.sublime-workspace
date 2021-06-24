@@ -1,0 +1,706 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ris",
+				"RiskModifier"
+			],
+			[
+				"di",
+				"difficulty_breathing"
+			],
+			[
+				"Sy",
+				"Symptom"
+			],
+			[
+				"sy",
+				"symptoms"
+			],
+			[
+				"tr",
+				"travel"
+			],
+			[
+				"ris",
+				"riskModifiers"
+			],
+			[
+				"new",
+				"new_head"
+			],
+			[
+				"re",
+				"result_3"
+			],
+			[
+				"Can",
+				"Canada_Set"
+			],
+			[
+				"s",
+				"States"
+			],
+			[
+				"S",
+				"Sales_Units"
+			],
+			[
+				"toto",
+				"total_8_Canada_Ford"
+			],
+			[
+				"Car_",
+				"Car_Manufacturer"
+			],
+			[
+				"C",
+				"Country"
+			],
+			[
+				"total_7_Can",
+				"total_7_Canada_2017_1"
+			],
+			[
+				"min",
+				"minimumBy"
+			],
+			[
+				"ass",
+				"assignAndMeasure"
+			],
+			[
+				"nu",
+				"numPts"
+			],
+			[
+				"n",
+				"newObj"
+			],
+			[
+				"k",
+				"kMeansIter"
+			],
+			[
+				"ca",
+				"capital"
+			],
+			[
+				"mer",
+				"mergeSort"
+			],
+			[
+				"de",
+				"deMessage"
+			],
+			[
+				"enc",
+				"encrptMessage"
+			],
+			[
+				"en",
+				"encrpt"
+			],
+			[
+				"cas",
+				"caseNum"
+			],
+			[
+				"client",
+				"client"
+			],
+			[
+				"key",
+				"keySet"
+			],
+			[
+				"page",
+				"pageNum"
+			],
+			[
+				"logi",
+				"logicalAddressData"
+			],
+			[
+				"num",
+				"numbersOfAddress"
+			],
+			[
+				"pa",
+				"pageTable"
+			],
+			[
+				"numbe",
+				"numberOfTable"
+			],
+			[
+				"tab",
+				"PageTable"
+			],
+			[
+				"pag",
+				"PageTable"
+			],
+			[
+				"lo",
+				"logicalAddressFile"
+			],
+			[
+				"loc",
+				"logicalAddressData"
+			],
+			[
+				"we",
+				"writers"
+			],
+			[
+				"cli",
+				"clientName"
+			],
+			[
+				"p",
+				"positionX"
+			],
+			[
+				"pos",
+				"positionY"
+			],
+			[
+				"turn",
+				"turn_left"
+			],
+			[
+				"move",
+				"move_forward"
+			],
+			[
+				"Move",
+				"MOVE_FORWARD"
+			],
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"sc",
+				"screen_buffer"
+			],
+			[
+				"a",
+				"actions"
+			],
+			[
+				"age",
+				"agent"
+			],
+			[
+				"o",
+				"outFile"
+			],
+			[
+				"ps",
+				"psfjResult"
+			],
+			[
+				"Br",
+				"burst"
+			],
+			[
+				"psfj",
+				"psfjResult"
+			],
+			[
+				"sort",
+				"sortDisplay"
+			],
+			[
+				"sor",
+				"sortDisplay"
+			],
+			[
+				"rr",
+				"rrSum"
+			],
+			[
+				"rrs",
+				"rrSum"
+			],
+			[
+				"RR",
+				"RRcount"
+			],
+			[
+				"to",
+				"totoalRRTime"
+			],
+			[
+				"fcs",
+				"fcfsCount"
+			],
+			[
+				"fc",
+				"fcfsCount"
+			],
+			[
+				"strin",
+				"StringBuilder"
+			],
+			[
+				"String",
+				"StringBuilder"
+			],
+			[
+				"inp",
+				"inputLine"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"input",
+				"inputline"
+			],
+			[
+				"eq",
+				"equals"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"st",
+				"stdio.h\tstandard header"
+			],
+			[
+				"pal",
+				"pal_count"
+			],
+			[
+				"pl",
+				"pal_count"
+			],
+			[
+				"po",
+				"points1"
+			],
+			[
+				"sorl",
+				"sortlist"
+			],
+			[
+				"sortL",
+				"sortlistTemp"
+			],
+			[
+				"scond",
+				"secondLength"
+			],
+			[
+				"fir",
+				"firstLength"
+			],
+			[
+				"so",
+				"sortList"
+			],
+			[
+				"second",
+				"secondLength"
+			],
+			[
+				"the",
+				"theFirstLength"
+			],
+			[
+				"firs",
+				"firstLength"
+			],
+			[
+				"rt",
+				"return"
+			],
+			[
+				"poi",
+				"pointTemp"
+			],
+			[
+				"seoc",
+				"secondArray"
+			],
+			[
+				"theFir",
+				"theFirstThread"
+			],
+			[
+				"se",
+				"theSecondLength"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"t",
+				"theSecondLength"
+			],
+			[
+				"th",
+				"theFirstLength"
+			],
+			[
+				"siz",
+				"sizeOfArray"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"x",
+				"x_void_ptr"
+			],
+			[
+				"stdi",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"Me",
+				"merge_sort"
+			],
+			[
+				"me",
+				"merge_sort"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"le",
+				"leftStart"
+			],
+			[
+				"ar",
+				"argv"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"Package Control.sublime-package",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/apple/Desktop/djangoProject/src/products/models.py",
+		"/Users/apple/Desktop/djangoProject/src/trydjango/settings.py",
+		"/Users/apple/#.bash_profile#",
+		"/Users/apple/.oh-my-zsh/custom/themes/powerlevel9k/powerlevel9k.zsh-theme",
+		"/Users/apple/Downloads/Anaconda3-2020.11-MacOSX-x86_64.sh",
+		"/Users/apple/Desktop/8873/Code/最终结果.txt",
+		"/Users/apple/Desktop/8873/Code/results.txt",
+		"/Users/apple/Desktop/8873/Code/cost_result.txt",
+		"/Users/apple/Desktop/8873/Code/run_and_print.py",
+		"/Users/apple/Desktop/8873/Code/dataset-telecom/base.csv",
+		"/Users/apple/Desktop/4174/A1/source.txt",
+		"/Users/apple/4144/A4/Haotian-Liu-ASN4/RuleMining.py",
+		"/Users/apple/4144/A3/Haotian-Liu-ASN3/buc.py",
+		"/Users/apple/4144/A2/Haotian-Liu-ASN2/ETL_OLAP.py",
+		"/Users/apple/4144/A3/Iceberg-Cube-Results.txt",
+		"/Users/apple/3151/Assignment/A4/DJIA.csv",
+		"/Users/apple/3151/Assignment/A3/mouse.csv",
+		"/Users/apple/3154/3154Project/Src/basic.py",
+		"/Users/apple/3154/3154Project/basic.py",
+		"/Users/apple/3171/A3/pokemonGame.java",
+		"/Users/apple/3171/A3/caesarCipher.java",
+		"/Users/apple/3171/A3/Echoserver.txt",
+		"/Users/apple/3120/A1/A1-Haotian Liu(B00735592)/A1.c",
+		"/Users/apple/3120/A1/A1-Haotian Liu(B00735592)/readMe.txt",
+		"/Users/apple/3110/A4/minCut.c",
+		"/Users/apple/Downloads/归档/Roundabout.java",
+		"/Users/apple/Downloads/僕の彼女がこんな…ドスケベ女に…/Readme.txt",
+		"/Users/apple/Desktop/abc.txt",
+		"/Users/apple/Desktop/R/test.R",
+		"/Users/apple/Desktop/4144/A4/Rules.txt",
+		"/Users/apple/Desktop/EnumBasedRiskAssessor.java",
+		"/Users/apple/Desktop/3130/Project_ind/src/EnumBasedRiskAssessor.java",
+		"/Users/apple/Desktop/3151/A4_Huang/DJIA.csv",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130assignments/IPA/EnumBasedRiskAssessor.java",
+		"/Users/apple/Desktop/3151/Assignment/A4/DJIA.csv",
+		"/Users/apple/Downloads/STOCKMARKET_csv_2/data/WILLSMLCAPPR.csv",
+		"/Users/apple/Downloads/STOCKMARKET_csv_2/data/DJCA.csv",
+		"/Users/apple/Downloads/STOCKMARKET_txt_2/data/RMIDGRTR.txt",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130assignments/IPA/Symptom.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130assignments/IPA/IRiskAssessor.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130assignments/IPA/Factory.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130assignments/IPA/RiskLevel.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130assignments/IPA/RiskModifier.java",
+		"/Users/apple/Desktop/3136/Prolog/persons.pl",
+		"/Users/apple/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/acec87027b854bdfe8c8dbeefdc754bd/Message/MessageTemp/13b6c025f090f4bd7707805e15672d72/File/Q2.py",
+		"/Users/apple/Desktop/3136/A6/A6.py",
+		"/Users/apple/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/D0ED93E5-C099-4AD9-9BAA-1030D157FF2E/ASN4-Test-Cases.txt",
+		"/Users/apple/Desktop/4144/A3/Haotian-Liu-ASN3/buc.py",
+		"/Users/apple/Desktop/4144/Debug_Assignments/A4/Play_Tennis_Data_Set.csv",
+		"/Users/apple/Desktop/4144/A4/RuleMining.py",
+		"/Users/apple/Desktop/4144/A4/Play_Tennis_Data_Set.csv",
+		"/Users/apple/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/A4A6737B-28AB-420A-9086-A72DAD831AC9/ASN4-Test-Cases.txt",
+		"/Users/apple/Desktop/3151/Assignment/A3/mouse.csv",
+		"/Users/apple/Desktop/3136/A5/test.c",
+		"/Users/apple/Desktop/3151/Assignment/A3/pima-indians-diabetes.data.csv",
+		"/Users/apple/Desktop/3151/Assignment/A3_Huang/pima-indians-diabetes.data.csv",
+		"/Users/apple/Desktop/3151/Assignment/A3_Huang/mouse.csv",
+		"/Users/apple/Desktop/4144/Debug_Assignments/Haotian-Liu-ASN3/Iceberg-Cube-Results.txt",
+		"/Users/apple/Desktop/3151/upgrade.py",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/InterfaceSegregationPrinciple/Good/IFax.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/InterfaceSegregationPrinciple/Good/IPrinter.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/InterfaceSegregationPrinciple/Good/Printer.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/LiskovSubstitutionPrinciple/Good/Main.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/LiskovSubstitutionPrinciple/Good/Bicycle.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/LiskovSubstitutionPrinciple/Good/Car.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/LiskovSubstitutionPrinciple/Good/DeviceWithEngine.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/LiskovSubstitutionPrinciple/Good/DeviceWithoutEngine.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/LiskovSubstitutionPrinciple/Good/TransportationDevice.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/OpenClosed/Final/AreaCalculator.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/OpenClosed/Final/Circle.java",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130/lectures/SOLID/OpenClosed/Final/Rectangle.java",
+		"/Users/apple/Desktop/4144/Debug_Assignments/Huang_A3/b.py",
+		"/Users/apple/Desktop/4144/Debug_Assignments/Haotian-Liu-ASN3/Readme.txt",
+		"/Users/apple/Desktop/4144/Debug_Assignments/Haotian-Liu-ASN3/Product_Sales_Data_Set.csv",
+		"/Users/apple/Desktop/4144/Debug_Assignments/Haotian-Liu-ASN3/buc.py",
+		"/Users/apple/Desktop/4144/A3/Haotian-Liu-ASN3/Readme.txt",
+		"/Users/apple/Desktop/4144/A3/Readme.txt",
+		"/Users/apple/Desktop/4144/A2/Haotian-Liu-ASN2/Readme.txt",
+		"/Users/apple/Desktop/4144/Debug_Assignments/A3/Iceberg-Cube-Results.txt",
+		"/Users/apple/Desktop/4144/Debug_Assignments/Huang_A3/Iceberg-Cube-Results.txt",
+		"/Users/apple/Desktop/4144/A2/Haotian-Liu-ASN2/ETL_OLAP.py",
+		"/Users/apple/Desktop/3130/Project/untitled.java",
+		"/Users/apple/Desktop/4144/A3/Product_Sales_Data_Set.csv",
+		"/Users/apple/Desktop/3130/git_for_assignment/代码",
+		"/Users/apple/Desktop/3130/git_for_assignment/csci3130assignments/a3/app/google-services.json",
+		"/Users/apple/Desktop/3136/Project_Haskell/3136Project1/project.hs",
+		"/Users/apple/Desktop/3136/Project_Haskell/3136Project1/Readme.txt",
+		"/Users/apple/Downloads/Haotian-Liu-ASN2/ETL_OLAP.py",
+		"/Users/apple/Desktop/4144/A2/Haotian-Liu-ASN2/Car_Sales_Data_Set.csv",
+		"/Users/apple/Desktop/4144/A2/Readme.txt",
+		"/Users/apple/Desktop/4144/A2/ETL_OLAP.py",
+		"/Users/apple/Desktop/4144/A2/Car_Sales_Data_Set_Second_Sorting.csv",
+		"/Users/apple/Desktop/4144/A2/Car_Sales_Data_Set_Third_Sorting.csv",
+		"/Users/apple/Desktop/3136/Project_Haskell/Project_Group43/project.hs",
+		"/Users/apple/Desktop/3136/Project_Haskell/Project_Group43/solveMaze.hs",
+		"/Users/apple/Desktop/3136/Project_Haskell/Project_Group43/testout.txt",
+		"/Users/apple/Desktop/4144/A2/Car_Sales_Data_Set.csv",
+		"/Users/apple/Desktop/3136/A2/file.txt",
+		"/Users/apple/Desktop/Python/Test/test1.py",
+		"/Users/apple/Desktop/3136/Lab2/KMeans.hs",
+		"/Users/apple/Scala/HelloWorld.scala",
+		"/Users/apple/Desktop/3136/lab1/Fibonacci.hs",
+		"/Users/apple/Desktop/3136/lab1/Sort.hs",
+		"/Users/apple/Desktop/3136/lab1/Main.hs",
+		"/Users/apple/Desktop/3130/lab1/log.txt",
+		"/Users/apple/Desktop/3130/lab1/app.js",
+		"/Users/apple/Desktop/3130/lab1/index.html",
+		"/Users/apple/Downloads/MachineLearning/readme.txt",
+		"/Users/apple/Downloads/A3 Haotian Liu (B00735592)-1/EchoClient.java",
+		"/Users/apple/Downloads/A3 Haotian Liu (B00735592)-1/pokemonGame.java",
+		"/Users/apple/Downloads/A3 Haotian Liu (B00735592)-1/caesarCipher.java",
+		"/Users/apple/Downloads/Haotian-Liu-ASN4-1/A4.c",
+		"/Users/apple/Downloads/Haotian-Liu-ASN4-1/Readme.txt",
+		"/Users/apple/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/acec87027b854bdfe8c8dbeefdc754bd/Message/MessageTemp/f1532652daa2f09ba6b4cb49b931d0f8/File/3154q4.txt",
+		"/Users/apple/Downloads/A4 Haotian Liu (B00735592)/A4_1/ChatClient.java",
+		"/Users/apple/Downloads/A4 Haotian Liu (B00735592)/A4_2/chatClient.java",
+		"/Users/apple/Downloads/A4 Haotian Liu (B00735592)/A4_3/ChatClient.java",
+		"/Users/apple/Desktop/3171/A4/A4_3/BroadcastChatServer.java",
+		"/Users/apple/Desktop/3171/A4/A4_3/server.sh",
+		"/Users/apple/Desktop/3171/A4/A4_1/server.sh",
+		"/Users/apple/Desktop/3171/lab6/EchoClient.java",
+		"/Users/apple/Desktop/3171/lab6/EchoServer.java",
+		"/Users/apple/Desktop/3110/A6/src/A6&A7-3110/A.java",
+		"/Users/apple/Desktop/3110/A6/answer/MainB.java",
+		"/Users/apple/3154/test.py",
+		"/Users/apple/Downloads/Haotian-Liu-ASN4/PhysicalAddresses.txt",
+		"/Users/apple/Downloads/Haotian-Liu-ASN4/Readme.txt",
+		"/Users/apple/Downloads/PageTable.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/1101 Lab 6 Haotian Liu B00735592/studentDemo.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"checkEmpty"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
